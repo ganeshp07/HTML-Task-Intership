@@ -1,0 +1,23 @@
+
+img{
+    
+    display: inline-block;
+
+}
+
+iframe{
+    display: block;
+}
+a,p{
+    display: inline-block;
+}
+.search,.img{
+    display: inline-block;
+}
+.img{
+    height: 25px;
+    width: 20px ;
+}
+h2, .id1{
+    display: inline-block;
+}
